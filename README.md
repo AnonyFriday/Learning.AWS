@@ -34,13 +34,20 @@
 - CloudFront
   - Global CDN & Edge Caching
 - API Gateway
+  - Canary Deployment
+  - Private, Public
+  - REST API
 - SQS
 - DynamoDB
 - Lambda Function
   - Asynchronous
+  - Versioning
+  - Alias
   - Permissions: IAM Resource Policy, IAM Execution Role
 
 **Practices:**
+
+![AWS Frontend](AWS_Frontend/Assignment_AWS_Frontend.png)
 
 ## AWS Backend
 
